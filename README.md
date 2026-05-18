@@ -99,3 +99,13 @@ To run the bot using Docker:
 
 - **Task Limit**: Each user is limited to one active task at a time to ensure fair usage.
 - **Settings Isolation**: Users cannot modify each other's settings via the interactive menu.
+
+## 💼 Custom Modifications & Features
+
+Need custom modifications, private features, or a personal bot setup?
+
+📩 DM on Telegram: [@cantarella_wuwa](https://t.me/cantarella_wuwa)
+
+Buy custom bots, advanced features, automation systems, Telegram CDN setups, encoding solutions, and more.
+
+  
