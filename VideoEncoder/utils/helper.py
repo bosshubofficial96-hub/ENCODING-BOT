@@ -15,13 +15,13 @@ from .encoding import encode, extract_subs
 from .uploads import upload_worker
 
 output = InlineKeyboardMarkup([
-    [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/akaza7902"),
-     InlineKeyboardButton("CantarellaBots", url="https://t.me/cantarellabots")]
+    [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/funnyKing"),
+     InlineKeyboardButton("CantarellaBots", url="https://t.me/bosshubots")]
 ])
 
 start_but = InlineKeyboardMarkup([
-    [InlineKeyboardButton("sᴛᴀᴛs", callback_data="stats"), InlineKeyboardButton("Settings", callback_data="OpenSettings")],
-    [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/akaza7902"), InlineKeyboardButton("CantarellaBots", url="https://t.me/cantarellabots")]])
+    [InlineKeyboardButton("ꜱᴛᴀᴛꜱ", callback_data="stats"), InlineKeyboardButton("ꜱᴇᴛᴛɪɴɢꜱ", callback_data="OpenSettings")],
+    [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/funnyking"), InlineKeyboardButton("ʙᴏꜱꜱʜᴜʙᴏᴛꜱ", url="https://t.me/bosshubots")]])
 
 
 async def check_chat(message, chat):
